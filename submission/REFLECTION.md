@@ -1,7 +1,7 @@
 # Bài phản tư — Lab 22 (căn chỉnh mô hình bằng DPO/ORPO)
 
 **Tên:** Phạm Cường Quốc (2A202602469)
-**Khoá:** A20-K4
+**Khoá:** K04-L34
 **Tier đã chạy:** T4
 **Ngày:** 2026-10-08
 
